@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="APPTest.MainPage">
 
-    
-        <WebView Source="http://www.google.com"></WebView>
+
+    <WebView Source="https://esperanza.gobdigital.com.ar/web/compras-blockchain/proveedor_app/login.aspx"></WebView>
     
 
 </ContentPage>
